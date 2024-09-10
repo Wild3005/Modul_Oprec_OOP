@@ -1,4 +1,8 @@
 # Dasar pemrograman C++ (Part 1)
+## Prepare
+- persiapkan laptop
+- pastikan terinstall msys2 dan terkonfigurasi pada laptop
+- cek dengan ```g++ --version``` pada terminal jika tidak error maka anda siap mengikuti modul ini
 ### -> C vs C++
 #### Bahasa C:
 ```C
