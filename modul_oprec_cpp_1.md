@@ -6,7 +6,7 @@
 
 
 ***-> pada ubuntu***
-- - cek dengan ```g++ --version``` pada terminal jika tidak error maka anda siap mengikuti modul ini
+- cek dengan ```g++ --version``` pada terminal jika tidak error maka anda siap mengikuti modul ini
 
 
 ### -> C vs C++
